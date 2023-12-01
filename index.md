@@ -17,4 +17,4 @@ var myVar ="Hello World";
 - [ ] test1
 - [X] test2
 - [x] test3
-- [ ] test4
+- [x] test4
